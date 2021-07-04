@@ -29,7 +29,7 @@ class Dashboard extends React.Component {
                                         <HeartOutlined className="text-2x text-danger" />
                                     </div>
                                     <div className="clear">
-                                        <div className="text-muted">收藏</div>
+                                        <div className="text-muted">Favorite</div>
                                         <h2>301</h2>
                                     </div>
                                 </div>
